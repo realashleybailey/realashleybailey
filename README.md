@@ -3,7 +3,7 @@
 <p align="center">I'm realashleybailey, a programming enthusiast from the United Kingdom.</p>
 
 <p align="center">
-  <a href="https://github.com/SamTheFam?tab=followers">
+  <a href="https://github.com/realashleybailey?tab=followers">
     <img src="https://img.shields.io/github/followers/realashleybailey?style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://youtube.com/c/AshleyBaileyOfficial?sub_confirmation=1">
