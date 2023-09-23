@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T00:37:41.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5L4K7l1yN5wmwBtwKXm4" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T03:06:39.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jW4YVISSYAb9GXwCh5ur" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4018" dy="2900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3010" dy="2353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,7 +11,12 @@
           <mxGeometry x="270" y="60" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pIVJt7jjB169_U8zp-Aa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pIVJt7jjB169_U8zp-Aa-1" target="pIVJt7jjB169_U8zp-Aa-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="340" />
+              <mxPoint x="-170" y="-325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pIVJt7jjB169_U8zp-Aa-1" value="Wizarr Payment Server&lt;br&gt;This software would handle transactions between Wizarr and Stripe/etc..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="300" width="295" height="80" as="geometry" />
@@ -104,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pIVJt7jjB169_U8zp-Aa-18" value="Admin Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="-90" width="160" height="40" as="geometry" />
+          <mxGeometry x="675" y="-90" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pIVJt7jjB169_U8zp-Aa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pIVJt7jjB169_U8zp-Aa-20" target="pIVJt7jjB169_U8zp-Aa-22">
           <mxGeometry relative="1" as="geometry">
@@ -117,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pIVJt7jjB169_U8zp-Aa-20" value="Payment Configuration Page&lt;br&gt;This is where you would configure settings for payments and how they are handled" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="60" width="270" height="90" as="geometry" />
+          <mxGeometry x="620" y="60" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pIVJt7jjB169_U8zp-Aa-22" value="Wizarr Backend Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="-360" width="200" height="70" as="geometry" />
