@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://avatars.githubusercontent.com/u/16636012?v=4" alt="Logo" /></p>
 
-<p align="center">I'm realashleybailey, a programming enthusiast from the United Kingdom.</p>
+<p align="center">I'm Ashley, a programming enthusiast from the United Kingdom.</p>
 
 <p align="center">
   <a href="https://github.com/realashleybailey?tab=followers">
